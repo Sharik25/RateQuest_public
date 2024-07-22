@@ -97,7 +97,7 @@ const ChartSection = () => {
       <Card sx={{ mt: 4 }}>
         <CardContent>
           <StyledTitle>
-            <h3>Order Requests (test data)</h3>
+            <h3>Order Requests</h3>
             <p>Updates Daily</p>
           </StyledTitle>
           <MonthSwitchBar>
